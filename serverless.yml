@@ -1,0 +1,12 @@
+service: rainbow-book-shop-api
+provider:
+  name: aws
+  runtime: nodejs14.x
+  region: ap-southeast-2 # Specify your desired AWS region here
+functions:
+  app:
+    handler: dist/handler.handler
+    events:
+      - http:
+          path: /
+          method: any

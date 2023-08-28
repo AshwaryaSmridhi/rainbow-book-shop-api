@@ -1,0 +1,22 @@
+[
+  {
+    "id": "b9a58d7b-0ac3-4f29-92cc-cf771c53d86d",
+    "title": "In Other Lands",
+    "quantity": 3,
+    "shipping": {
+      "trackingCompany": "AusPost",
+      "trackingNumber": "tracking-number-1"
+    },
+    "status": "en-route"
+  },
+  {
+    "id": "9d2f005d-a754-4e7e-983d-0fc0ce8b1b87",
+    "title": "Kiyoshi Warriors",
+    "quantity": 1,
+    "shipping": {
+      "trackingCompany": "AusPost",
+      "trackingNumber": "tracking-number-1"
+    },
+    "status": "en-route"
+  }
+]

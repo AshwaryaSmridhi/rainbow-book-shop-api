@@ -1,0 +1,38 @@
+[
+  {
+    "title": "In Other Lands",
+    "description": "Amazing fiction!",
+    "price": 80,
+    "stock": 2
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "description": "Amazing fiction!",
+    "price": 35,
+    "stock": 5
+  },
+  {
+    "title": "Red, White & Royal Blue",
+    "description": "Amazing fiction!",
+    "price": 20,
+    "stock": 5
+  },
+  {
+    "title": "Saving face",
+    "description": "Amazing fiction!",
+    "price": 85,
+    "stock": 5
+  },
+  {
+    "title": "Kiyoshi Warriors",
+    "description": "Amazing fiction!",
+    "price": 38,
+    "stock": 4
+  },
+  {
+    "title": "Kiyoshi Warriors 2",
+    "description": "Amazing fiction!",
+    "price": 30,
+    "stock": 5
+  }
+]
